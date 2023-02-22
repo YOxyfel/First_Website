@@ -15,10 +15,25 @@ hr
     height: 1px;
 }
 
+.hh1
+{
+    color: white;
+	font-size: 65px;
+	-webkit-text-stroke: .5px black;
+    color: #9bf7ff;
+}
+
 img
 {
     max-width: 100%;
     border-radius: 50%;
+}
+
+.img1
+{
+    width: 1900px;
+    height: 237px;
+    border-radius: 0%;
 }
 
 .break-word
@@ -91,6 +106,7 @@ div1
     border-radius: 20px;
 }
 
+
 h1
 {
     color: white;
@@ -99,10 +115,10 @@ h1
     color: #A6E3E9;
 }
 
-th1
+td
 {
-    font-size: 35px;
-    align-items: center;
+	-webkit-text-stroke: 0.3px black;
+    color: #18d4e6;
 }
 
 p1
